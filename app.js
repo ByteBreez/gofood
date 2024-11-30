@@ -1,3 +1,4 @@
+// this is logic file app.js
 const passwordBox = document.getElementById("password");
 
 function createPassword() {
