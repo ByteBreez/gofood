@@ -1,4 +1,4 @@
-# gofood
+# Password Generator 
 this is a sample project
 
 
